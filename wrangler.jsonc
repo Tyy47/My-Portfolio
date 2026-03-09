@@ -15,8 +15,10 @@
   "observability": {
     "enabled": true
   },
-  "routes": {
-	  "pattern": "portfolio.ty-server.com",
-	  "custom-domain": true
-  }
+  "routes": [
+		{
+		  "pattern": "portfolio.ty-server.com",
+		  "custom-domain": true
+		}
+	]
 }
