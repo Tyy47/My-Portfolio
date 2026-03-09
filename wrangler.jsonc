@@ -14,5 +14,9 @@
   "preview_urls": true,
   "observability": {
     "enabled": true
+  },
+  "routes": {
+	  "pattern": "portfolio.ty-server.com",
+	  "custom-domain": true
   }
 }
