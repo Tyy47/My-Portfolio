@@ -15,8 +15,8 @@
 		</div>
 		<hr />
 		<div id="socials">
-			<a href="www.linkedin.com/in/tyler-mack-382374310">LinkedIn Profile</a>
-			<a href="https://github.com/Tyy47">GitHub Profile</a>
+			<a href="https://www.linkedin.com/in/tyler-mack-382374310/" target="_blank">LinkedIn Profile</a>
+			<a href="https://github.com/Tyy47" target="_blank">GitHub Profile</a>
 		</div>
 		<hr>
 	</section>
