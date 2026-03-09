@@ -14,6 +14,11 @@
 			<p>Location: Rochester, NY</p>
 		</div>
 		<hr />
+		<div id="socials">
+			<a href="www.linkedin.com/in/tyler-mack-382374310">LinkedIn Profile</a>
+			<a href="https://github.com/Tyy47">GitHub Profile</a>
+		</div>
+		<hr>
 	</section>
 
 	<div class="flex-container">
@@ -183,6 +188,15 @@
 	#location {
 		display: flex;
 		justify-content: space-evenly;
+	}
+
+	#socials {
+		display: flex;
+		justify-content: space-evenly;
+	}
+
+	#socials a {
+		color: black;
 	}
 	/* Skills and Experience section */
 
