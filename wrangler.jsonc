@@ -18,7 +18,7 @@
 	"routes": [
 		{
 			"pattern": "portfolio.ty-server.com",
-			"custom-domain": true
+			"custom_domain": true
 		}
 	]
 }
