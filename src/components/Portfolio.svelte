@@ -126,6 +126,7 @@
 			<h3>Certifications</h3>
 			<p>Google IT Support Professional</p>
 			<p>Python For Everybody - University of Michigan</p>
+			<p>Responsive Web Design - freeCodeCamp</p>
 			<hr class="short-hr">
 		</section>
 		<section id="projects">
