@@ -28,6 +28,12 @@
 			<h4>Programming Languages</h4>
 			<p>Python, Javascript/Typescript, Rust.</p>
 			<hr class="short-hr" />
+			<h4>Frameworks</h4>
+			<p>React & SvelteKit</p>
+			<hr class="short-hr">
+			<h4>Libraries</h4>
+			<p>Tailwind & Bootstrap</p>
+			<hr class="short-hr">
 			<h4>Scripting Languages</h4>
 			<p>Bash and Powershell.</p>
 			<hr class="short-hr" />
@@ -94,6 +100,7 @@
 			</ul>
 			<hr />
 			<h3>Merchandising Service Associate</h3>
+			<p><em class="dimmed">September 2023 - April 2025</em></p>
 			<ul>
 				<li>
 					Set and organize shelves based on plans given by vendors and
