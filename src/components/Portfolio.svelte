@@ -131,9 +131,11 @@
 			<p>Elba High School. September 2008 - June 2021</p>
 			<hr class="short-hr" />
 			<h3>Certifications</h3>
+			<p class="dimmed" style="padding-bottom: 12px;">Certifications can be found on my LinkedIn</p>
 			<p>Google IT Support Professional</p>
 			<p>Python For Everybody - University of Michigan</p>
 			<p>Responsive Web Design - freeCodeCamp</p>
+			<p>Linux for Developers - The Linux Foundation</p>
 			<hr class="short-hr">
 		</section>
 		<section id="projects">
@@ -195,6 +197,7 @@
 
 	#location {
 		display: flex;
+		flex-wrap: wrap;
 		justify-content: space-evenly;
 	}
 
