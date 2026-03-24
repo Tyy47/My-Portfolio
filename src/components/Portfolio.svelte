@@ -38,12 +38,12 @@
 			<p>Bash and Powershell.</p>
 			<hr class="short-hr" />
 			<h4>Linux</h4>
-			<p>Debian, Ubuntu, NixOS.</p>
+			<p>Debian, Ubuntu, Fedora, NixOS.</p>
 			<hr class="short-hr" />
 			<h4>VMs & Containerization</h4>
 			<p>VMWare, Docker, Kubernetes.</p>
 			<hr class="short-hr" />
-			<h4>Adminstration</h4>
+			<h4>Administration</h4>
 			<p>
 				Linux & Windows Users, M365, Google Suite, Netsuite, Salesforce.
 			</p>
@@ -85,7 +85,7 @@
 				</li>
 				<li>
 					Build powerful and intuitive Powershell scripts for
-					colleages to help aid in day-to-day mundane tasks. These
+					colleagues to help aid in day-to-day mundane tasks. These
 					shell scripts include password resets, shared mailbox
 					creation, and user management.
 				</li>
@@ -143,7 +143,7 @@
 			<hr />
 			<h3>Swiss</h3>
 			<p>
-				An all in one CLI tool written in Rust that offers various
+				An all in one CLI tool written in Go that offers various
 				miscellaneous tools that aid in a developers workflow. Tools
 				include, a search function for the web, favicon converter, build
 				tools/options for various languages.
@@ -153,9 +153,9 @@
 			<p>
 				A portable homelab built on a Raspberry Pi5 that contains
 				multiple containers using Docker to create a transportable
-				environment whereever I go. This lab offers network wide ad
+				environment wherever I go. This lab offers network wide ad
 				blocking via PiHole and a VPN using Tailscale to access this
-				adblocked network whereever I go. This lab also contains a
+				adblocked network wherever I go. This lab also contains a
 				GitLab server that contains all of my projects and tools I can
 				pull from.
 			</p>
