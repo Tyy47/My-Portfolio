@@ -9,6 +9,7 @@
 		<a href="">Contact Me</a>
 		<a href="">Resume Download</a>
 	</nav>
+	<hr>
 	<div id="socials">
 	</div>
 </header>
@@ -19,14 +20,20 @@
 		color: ghostwhite;
 	}
 
+	hr {
+		width: 75%;
+		margin: 12px auto;
+	}
+
 	#title {
 		text-align: center;
 	}
 
 	nav {
-		display: flex;
-		flex-direction: row;
-		justify-content: space-evenly;
+		display: grid;
+		grid-template-columns: repeat(4, 1fr);
+		text-align: center;
+		align-items: center;
 	}
 
 	nav a {
