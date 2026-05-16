@@ -1,45 +1,70 @@
 <script>
+
+	import { FontAwesomeIcon } from '@fortawesome/svelte-fontawesome';
+	import { faGithub, faLinkedin } from '@fortawesome/free-brands-svg-icons';
+
 </script>
 
 <header>
-	<h1 id="title">Tyler's Portfolio</h1>
+	<h1>tyler's portfolio</h1>
 	<nav>
-		<a href="">Home</a>
-		<a href="">Projects</a>
-		<a href="">Contact Me</a>
 		<a href="">Resume Download</a>
+		<a href="https://www.github.com/Tyy47" class="social-icon" target="_blank"><FontAwesomeIcon icon={ faGithub } /></a>
+		<a href="https://www.linkedin.com/in/tyler-mack-382374310" target="_blank" class="social-icon"><FontAwesomeIcon icon={ faLinkedin } /></a>
 	</nav>
-	<hr>
-	<div id="socials">
-	</div>
 </header>
+<hr>
 
 <style>
-
+	
 	header {
-		color: ghostwhite;
-	}
-
-	hr {
-		width: 75%;
-		margin: 12px auto;
-	}
-
-	#title {
+		display: flex;
+		justify-content: space-evenly;
+		flex-direction: row;
 		text-align: center;
+		align-items: center;
+		color: ghostwhite;
 	}
 
 	nav {
-		display: grid;
-		grid-template-columns: repeat(4, 1fr);
-		text-align: center;
-		align-items: center;
+		display: flex;
+		flex-direction: row;
+		justify-content: space-around;
+		gap: 30px;
 	}
 
-	nav a {
+	.social-icon {
+		width: 25px;
+		height: 25px;
+		margin: 0 auto;
+	}
+
+	a {
 		color: ghostwhite;
+		text-align: center;
 		text-decoration: none;
-		font-size: clamp(0.8rem, 1.2rem, 2rem);
+	}
+
+	a:hover {
+		background-color: darkgray;
+	}
+
+	hr {
+		width: 90%;
+		opacity: 50%;
+		margin: 24px auto;
+	}
+
+	@media screen and (min-width: 320px) and (max-width: 960px) {
+		
+		header {
+			display: block;
+		}
+		
+		nav {
+			flex-direction: column;
+		}
+		
 	}
 
 </style>

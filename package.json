@@ -25,6 +25,11 @@
     "wrangler": "^4.63.0"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^7.2.0",
+    "@fortawesome/fontawesome-svg-core": "^7.2.0",
+    "@fortawesome/free-brands-svg-icons": "^7.2.0",
+    "@fortawesome/free-solid-svg-icons": "^7.2.0",
+    "@fortawesome/svelte-fontawesome": "^0.2.4",
     "wrangler": "^4.71.0"
   }
 }
