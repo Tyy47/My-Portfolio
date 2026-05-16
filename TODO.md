@@ -1,1 +1,1 @@
-Import social images for socials tab in header. Linkedin, Github, etc.
+Download resume and add it to header a tag for opening
