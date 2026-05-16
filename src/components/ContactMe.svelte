@@ -1,5 +1,5 @@
 <script>
-    import { faMarsStroke, faClock, faCompass, faBuilding, faEnvelope } from "@fortawesome/free-solid-svg-icons";
+    import { faMars, faClock, faCompass, faBuilding, faEnvelope } from "@fortawesome/free-solid-svg-icons";
 
 	
 	import { FontAwesomeIcon } from "@fortawesome/svelte-fontawesome";
@@ -17,7 +17,7 @@
 			<span><FontAwesomeIcon icon={ faCompass } style="height: 25px; width:25px; display: inline; margin-right: 12px;" />Location: Rochester, New York</span>
 		</div>
 		<div id="second-half">
-			<span><FontAwesomeIcon icon={ faMarsStroke } style="height: 25px; width:25px; display: inline; margin-right: 12px;" />he/him</span>
+			<span><FontAwesomeIcon icon={ faMars } style="height: 25px; width:25px; display: inline; margin-right: 12px;" />he/him</span>
 			<span><FontAwesomeIcon icon={ faClock } style="height: 25px; width:25px; display: inline; margin-right: 12px;" />Timezone: EST</span>
 		</div>
 	</div>
