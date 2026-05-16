@@ -42,7 +42,7 @@
 	}
 
 	a:hover {
-		background-color: darkgray;
+		scale: 1.1;
 	}
 
 	hr {
