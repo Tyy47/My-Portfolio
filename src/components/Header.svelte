@@ -55,10 +55,12 @@
 		
 		header {
 			display: block;
+			float: none;
 		}
 		
 		nav {
-			flex-direction: column;
+			flex-direction: row;
+			margin: 12px auto;
 		}
 		
 	}

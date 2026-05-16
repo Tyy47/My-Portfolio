@@ -1,14 +1,13 @@
 <script>
 	import Header from "../components/Header.svelte";
 	import NameAndTitle from "../components/NameAndTitle.svelte";
-	import AboutMe from "../components/AboutMe.svelte";
-	import Info from "../components/Info.svelte";
+	import ContactMe from "../components/ContactMe.svelte";
 </script>
 
 
 <Header />
 <NameAndTitle />
-<AboutMe />
+<ContactMe />
 
 
 

@@ -14,7 +14,7 @@
 <style>
 
 	#profile {
-		border: 1px solid #212121;
+		border: 1px solid var(--border-color);
 	}
 
 	#about-me-block {
