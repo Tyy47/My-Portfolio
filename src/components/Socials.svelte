@@ -26,15 +26,15 @@
 
 <style>
 
-	a {
-		color: ghostwhite;
-
-	}
-
 	#socials-section {
 		border: 1px solid var(--border-color);
 		margin: 36px auto;
 		padding: 20px;
+		color: ghostwhite;
+
+		a {
+			color: ghostwhite;
+		}
 	}
 
 	.grid-container {
@@ -43,7 +43,6 @@
 		grid-template-columns: repeat(2, 1fr);
 		margin: 0 auto;
 		padding: 20px;
-		color: ghostwhite;
 	}
 
 	.grid-slot {
