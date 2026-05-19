@@ -1,7 +1,5 @@
 <script>
     import { faMars, faClock, faCompass, faBuilding, faEnvelope } from "@fortawesome/free-solid-svg-icons";
-
-	
 	import { FontAwesomeIcon } from "@fortawesome/svelte-fontawesome";
 
 </script>
