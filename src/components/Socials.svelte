@@ -71,5 +71,19 @@
 		height: 50px;
 		border-radius: 7%;
 	}
+	
+	@media screen and (min-width: 320px) and (max-width: 960px) {
+		.grid-container {
+			display: flex;
+			flex-wrap: nowrap;
+			flex-direction: column;
+		}
+
+		.grid-slot {
+			margin-top: 20px;
+			padding: 16px;
+		}
+	}
+
 
 </style>
