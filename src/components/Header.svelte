@@ -8,7 +8,7 @@
 
 <header>
 	<nav>
-		<a href="" class="social-icon" target="_blank"><FontAwesomeIcon icon={ faAddressCard } /></a>
+		<a href="../../Resume.pdf" class="social-icon" target="_blank"><FontAwesomeIcon icon={ faAddressCard } /></a>
 		<a href="https://www.github.com/Tyy47" class="social-icon" target="_blank"><FontAwesomeIcon icon={ faGithub } /></a>
 		<a href="https://www.linkedin.com/in/tyler-mack-382374310" target="_blank" class="social-icon"><FontAwesomeIcon icon={ faLinkedin } /></a>
 	</nav>
