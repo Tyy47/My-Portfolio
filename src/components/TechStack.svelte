@@ -11,6 +11,7 @@
 		<a href="https://typescriptlang.org/" target="_blank"><img src="./typescript.png" alt="Typescript" class="stack-img"></a>
 		<a href="https://svelte.dev" target="_blank"><img src="./svelte.png" alt="Svelte" class="stack-img"></a>
 		<a href="https://postgresql.org" target="_blank"><img src="./postgresql.png" alt="PostgreSQL" class="stack-img"></a>
+		<a href="https://tailwindcss.com" target="_blank"><img src="./tailwind.png" alt="Tailwind" class="stack-img"></a>
 	</div>
 
 </section>
@@ -52,6 +53,7 @@
 		width: 75px;
 		height: 75px;
 		margin: 8px;
+		object-fit: contain;
 	}
 
 	.stack-img:hover {

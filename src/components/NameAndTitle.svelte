@@ -15,6 +15,11 @@
 
 	#profile {
 		border: 1px solid var(--border-color);
+		display: flex;
+		flex-direction: row;
+		flex-wrap: nowrap;
+		justify-content: center;
+		align-items: center;
 	}
 
 	#about-me-block {
