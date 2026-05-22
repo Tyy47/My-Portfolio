@@ -8,10 +8,13 @@
 
 	<div class="imgs-container">
 		<a href="https://bun.com/" target="_blank"><img src="./Bun.png" alt="Bun" class="stack-img"></a>
+		<a href="https://www.nodejs.org" target="_blank"><img src="./nodejs.png" alt="NodeJS" class="stack-img"></a>
 		<a href="https://typescriptlang.org/" target="_blank"><img src="./typescript.png" alt="Typescript" class="stack-img"></a>
 		<a href="https://svelte.dev" target="_blank"><img src="./svelte.png" alt="Svelte" class="stack-img"></a>
 		<a href="https://postgresql.org" target="_blank"><img src="./postgresql.png" alt="PostgreSQL" class="stack-img"></a>
 		<a href="https://tailwindcss.com" target="_blank"><img src="./tailwind.png" alt="Tailwind" class="stack-img"></a>
+		<a href="https://www.prisma.io/" target="_blank"><img src="./prisma.png" alt="Prisma ORM" class="stack-img"></a>
+		<a href="https://www.supabase.com" target="_blank"><img src="./supabase.png" alt="Supabase" class="stack-img"></a>
 	</div>
 
 </section>
